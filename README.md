@@ -54,7 +54,7 @@ README.md
 - Admin route protections
 - Deployment (backend)
 
-### **Partner**
+### **Abdelrahman**
 - Angular UI setup and routing
 - Submit Feedback form
 - View Feedback page (by channel)
